@@ -7683,7 +7683,7 @@ pluralize@^7.0.0:
   resolved "https://registry.npm.taobao.org/pluralize/download/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
   integrity sha1-KYuJ34uTsCIdv0Ia0rGx6iP8Z3c=
 
-pngquant-bin@^5.0.0, pngquant-bin@^5.0.2:
+pngquant-bin@^5.0.0:
   version "5.0.2"
   resolved "https://registry.npm.taobao.org/pngquant-bin/download/pngquant-bin-5.0.2.tgz#6f34f3e89c9722a72bbc509062b40f1b17cda460"
   integrity sha1-bzTz6JyXIqcrvFCQYrQPGxfNpGA=
